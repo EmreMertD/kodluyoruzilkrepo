@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](https://github.com/EmreMertD/kodluyoruzilkrepo/blob/main/LICENSE)
