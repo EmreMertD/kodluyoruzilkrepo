@@ -13,8 +13,11 @@ https://github.com/EmreMertD/kodluyoruzilkrepo.git
 
 - Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
+```bash
 'cd kodluyoruzilkrepo'
 'code .'
+```
+
 
 ## Contributing
 
